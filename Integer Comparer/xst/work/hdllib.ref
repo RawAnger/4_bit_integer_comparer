@@ -1,0 +1,8 @@
+EN comp_1_bit NULL D:/205_HW/HW_4/COMP_1_bit.vhd sub00/vhpl00 1645959242
+AR connect behavioral D:/205_HW/HW_4/CONNECT.vhd sub00/vhpl04 1645959245
+EN con_comp_1_bit NULL D:/205_HW/HW_4/Structural_Modelling.vhd sub00/vhpl02 1645959246
+AR comp_1_bit behavioral D:/205_HW/HW_4/COMP_1_bit.vhd sub00/vhpl01 1645959243
+AR poz_compare structure D:/205_HW/HW_4/POZ_COMPARE.vhd sub00/vhpl07 1645959249
+AR con_comp_1_bit structure D:/205_HW/HW_4/Structural_Modelling.vhd sub00/vhpl05 1645959247
+EN connect NULL D:/205_HW/HW_4/CONNECT.vhd sub00/vhpl03 1645959244
+EN poz_compare NULL D:/205_HW/HW_4/POZ_COMPARE.vhd sub00/vhpl06 1645959248

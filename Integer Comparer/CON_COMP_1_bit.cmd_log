@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "D:/205_HW/HW_4/CON_COMP_1_bit.xst" -ofn "D:/205_HW/HW_4/CON_COMP_1_bit.syr" 
+xst -intstyle ise -ifn "D:/205_HW/HW_4/CON_COMP_1_bit.xst" -ofn "D:/205_HW/HW_4/CON_COMP_1_bit.syr" 

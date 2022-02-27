@@ -1,0 +1,5 @@
+set -tmpdir "D:/205_HW/HW_4/xst/projnav.tmp"
+set -xsthdpdir "D:/205_HW/HW_4/xst"
+elaborate
+-ifn OR_gate.prj
+-ifmt mixed

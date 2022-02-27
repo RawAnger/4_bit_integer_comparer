@@ -1,0 +1,25 @@
+Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -o D:/205_HW/HW_4/POZ_COMPARE_tb_isim_beh.exe -prj D:/205_HW/HW_4/POZ_COMPARE_tb_beh.prj work.POZ_COMPARE_tb 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Parsing VHDL file "D:/205_HW/HW_4/CONNECT.vhd" into library work
+Parsing VHDL file "D:/205_HW/HW_4/COMP_1_bit.vhd" into library work
+Parsing VHDL file "D:/205_HW/HW_4/Structural_Modelling.vhd" into library work
+Parsing VHDL file "D:/205_HW/HW_4/POZ_COMPARE.vhd" into library work
+Parsing VHDL file "D:/205_HW/HW_4/POZ_COMPARE_tb.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling package standard
+Compiling package std_logic_1164
+Compiling architecture behavioral of entity COMP_1_bit [comp_1_bit_default]
+Compiling architecture behavioral of entity CONNECT [connect_default]
+Compiling architecture structure of entity CON_COMP_1_bit [con_comp_1_bit_default]
+Compiling architecture structure of entity POZ_COMPARE [poz_compare_default]
+Compiling architecture tb of entity poz_compare_tb
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 11 VHDL Units
+Built simulation executable D:/205_HW/HW_4/POZ_COMPARE_tb_isim_beh.exe
+Fuse Memory Usage: 30012 KB
+Fuse CPU Usage: 390 ms

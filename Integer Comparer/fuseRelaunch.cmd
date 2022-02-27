@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "D:/205_HW/HW_4/POZ_COMPARE_tb_isim_beh.exe" -prj "D:/205_HW/HW_4/POZ_COMPARE_tb_beh.prj" "work.POZ_COMPARE_tb" 

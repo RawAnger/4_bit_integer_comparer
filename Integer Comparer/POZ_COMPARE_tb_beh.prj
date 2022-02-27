@@ -1,0 +1,5 @@
+vhdl work "CONNECT.vhd"
+vhdl work "COMP_1_bit.vhd"
+vhdl work "Structural_Modelling.vhd"
+vhdl work "POZ_COMPARE.vhd"
+vhdl work "POZ_COMPARE_tb.vhd"

@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "D:/205_HW/HW_4/Structural_Modelling.xst" -ofn "D:/205_HW/HW_4/Structural_Modelling.syr" 

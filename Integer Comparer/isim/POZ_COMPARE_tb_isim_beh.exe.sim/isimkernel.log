@@ -1,0 +1,30 @@
+Command line:
+   POZ_COMPARE_tb_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  53291
+
+Fri Jan 07 21:20:58 2022
+
+
+ Elaboration Time: 0.03125 sec
+
+ Current Memory Usage: 5150.02 Meg
+
+ Total Signals          : 104
+ Total Nets             : 34
+ Total Signal Drivers   : 23
+ Total Blocks           : 13
+ Total Primitive Blocks : 8
+ Total Processes        : 16
+ Total Traceable Variables  : 8
+ Total Scalar Nets and Variables : 394
+Total Line Count : 70
+Total Line Count : 70
+
+ Total Simulation Time: 0.03125 sec
+
+ Current Memory Usage: 5464.6 Meg
+
+Fri Jan 07 21:21:37 2022
+

@@ -1,0 +1,90 @@
+Release 14.7 - xst P.20131013 (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to D:/205_HW/HW_4/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.12 secs
+ 
+--> Parameter xsthdpdir set to D:/205_HW/HW_4/xst
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.12 secs
+ 
+--> WARNING:Xst:3164 - Option "-debug" found multiple times in the command line. Only the first occurence is considered.
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file "D:/205_HW/HW_4/COMP_1_bit.vhd" in Library work.
+Architecture behavioral of Entity comp_1_bit is up to date.
+Compiling vhdl file "D:/205_HW/HW_4/CONNECT.vhd" in Library work.
+Architecture behavioral of Entity connect is up to date.
+Compiling vhdl file "D:/205_HW/HW_4/Structural_Modelling.vhd" in Library work.
+Entity <con_comp_1_bit> compiled.
+Entity <con_comp_1_bit> (Architecture <structure>) compiled.
+Compiling vhdl file "D:/205_HW/HW_4/POZ_COMPARE.vhd" in Library work.
+ERROR:HDLParsers:1202 - "D:/205_HW/HW_4/POZ_COMPARE.vhd" Line 10. Redeclaration of symbol X.
+ERROR:HDLParsers:1202 - "D:/205_HW/HW_4/POZ_COMPARE.vhd" Line 11. Redeclaration of symbol Y.
+ERROR:HDLParsers:1202 - "D:/205_HW/HW_4/POZ_COMPARE.vhd" Line 12. Redeclaration of symbol Z.
+ERROR:HDLParsers:3010 - "D:/205_HW/HW_4/POZ_COMPARE.vhd" Line 15. Entity Structural_Modelling does not exist.
+ERROR:HDLParsers:3312 - "D:/205_HW/HW_4/POZ_COMPARE.vhd" Line 18. Undefined symbol 'STD_LOGIC'.
+ERROR:HDLParsers:1209 - "D:/205_HW/HW_4/POZ_COMPARE.vhd" Line 18. STD_LOGIC: Undefined symbol (last report in this block)
+ERROR:HDLParsers:3312 - "D:/205_HW/HW_4/POZ_COMPARE.vhd" Line 26. Undefined symbol 'STD_LOGIC'.
+ERROR:HDLParsers:1209 - "D:/205_HW/HW_4/POZ_COMPARE.vhd" Line 26. STD_LOGIC: Undefined symbol (last report in this block)
+ERROR:HDLParsers:3312 - "D:/205_HW/HW_4/POZ_COMPARE.vhd" Line 36. Undefined symbol 'STD_LOGIC'.
+ERROR:HDLParsers:1209 - "D:/205_HW/HW_4/POZ_COMPARE.vhd" Line 36. STD_LOGIC: Undefined symbol (last report in this block)
+ERROR:HDLParsers:3312 - "D:/205_HW/HW_4/POZ_COMPARE.vhd" Line 41. Undefined symbol 'a3'.
+ERROR:HDLParsers:1209 - "D:/205_HW/HW_4/POZ_COMPARE.vhd" Line 41. a3: Undefined symbol (last report in this block)
+ERROR:HDLParsers:3312 - "D:/205_HW/HW_4/POZ_COMPARE.vhd" Line 41. Undefined symbol 'b3'.
+ERROR:HDLParsers:1209 - "D:/205_HW/HW_4/POZ_COMPARE.vhd" Line 41. b3: Undefined symbol (last report in this block)
+ERROR:HDLParsers:3312 - "D:/205_HW/HW_4/POZ_COMPARE.vhd" Line 41. Undefined symbol 'x3'.
+ERROR:HDLParsers:1209 - "D:/205_HW/HW_4/POZ_COMPARE.vhd" Line 41. x3: Undefined symbol (last report in this block)
+ERROR:HDLParsers:3312 - "D:/205_HW/HW_4/POZ_COMPARE.vhd" Line 41. Undefined symbol 'y3'.
+ERROR:HDLParsers:1209 - "D:/205_HW/HW_4/POZ_COMPARE.vhd" Line 41. y3: Undefined symbol (last report in this block)
+ERROR:HDLParsers:3312 - "D:/205_HW/HW_4/POZ_COMPARE.vhd" Line 41. Undefined symbol 'z3'.
+ERROR:HDLParsers:1209 - "D:/205_HW/HW_4/POZ_COMPARE.vhd" Line 41. z3: Undefined symbol (last report in this block)
+ERROR:HDLParsers:3312 - "D:/205_HW/HW_4/POZ_COMPARE.vhd" Line 42. Undefined symbol 'a2'.
+ERROR:HDLParsers:1209 - "D:/205_HW/HW_4/POZ_COMPARE.vhd" Line 42. a2: Undefined symbol (last report in this block)
+ERROR:HDLParsers:3312 - "D:/205_HW/HW_4/POZ_COMPARE.vhd" Line 42. Undefined symbol 'b2'.
+ERROR:HDLParsers:1209 - "D:/205_HW/HW_4/POZ_COMPARE.vhd" Line 42. b2: Undefined symbol (last report in this block)
+ERROR:HDLParsers:3312 - "D:/205_HW/HW_4/POZ_COMPARE.vhd" Line 42. Undefined symbol 'x2'.
+ERROR:HDLParsers:1209 - "D:/205_HW/HW_4/POZ_COMPARE.vhd" Line 42. x2: Undefined symbol (last report in this block)
+ERROR:HDLParsers:3312 - "D:/205_HW/HW_4/POZ_COMPARE.vhd" Line 42. Undefined symbol 'y2'.
+ERROR:HDLParsers:1209 - "D:/205_HW/HW_4/POZ_COMPARE.vhd" Line 42. y2: Undefined symbol (last report in this block)
+ERROR:HDLParsers:3312 - "D:/205_HW/HW_4/POZ_COMPARE.vhd" Line 42. Undefined symbol 'z2'.
+ERROR:HDLParsers:1209 - "D:/205_HW/HW_4/POZ_COMPARE.vhd" Line 42. z2: Undefined symbol (last report in this block)
+ERROR:HDLParsers:3312 - "D:/205_HW/HW_4/POZ_COMPARE.vhd" Line 43. Undefined symbol 'a1'.
+ERROR:HDLParsers:1209 - "D:/205_HW/HW_4/POZ_COMPARE.vhd" Line 43. a1: Undefined symbol (last report in this block)
+ERROR:HDLParsers:3312 - "D:/205_HW/HW_4/POZ_COMPARE.vhd" Line 43. Undefined symbol 'b1'.
+ERROR:HDLParsers:1209 - "D:/205_HW/HW_4/POZ_COMPARE.vhd" Line 43. b1: Undefined symbol (last report in this block)
+ERROR:HDLParsers:3312 - "D:/205_HW/HW_4/POZ_COMPARE.vhd" Line 43. Undefined symbol 'x1'.
+ERROR:HDLParsers:1209 - "D:/205_HW/HW_4/POZ_COMPARE.vhd" Line 43. x1: Undefined symbol (last report in this block)
+ERROR:HDLParsers:3312 - "D:/205_HW/HW_4/POZ_COMPARE.vhd" Line 43. Undefined symbol 'y1'.
+ERROR:HDLParsers:1209 - "D:/205_HW/HW_4/POZ_COMPARE.vhd" Line 43. y1: Undefined symbol (last report in this block)
+ERROR:HDLParsers:3312 - "D:/205_HW/HW_4/POZ_COMPARE.vhd" Line 43. Undefined symbol 'z1'.
+ERROR:HDLParsers:1209 - "D:/205_HW/HW_4/POZ_COMPARE.vhd" Line 43. z1: Undefined symbol (last report in this block)
+ERROR:HDLParsers:3312 - "D:/205_HW/HW_4/POZ_COMPARE.vhd" Line 44. Undefined symbol 'a0'.
+ERROR:HDLParsers:1209 - "D:/205_HW/HW_4/POZ_COMPARE.vhd" Line 44. a0: Undefined symbol (last report in this block)
+ERROR:HDLParsers:3312 - "D:/205_HW/HW_4/POZ_COMPARE.vhd" Line 44. Undefined symbol 'b0'.
+ERROR:HDLParsers:1209 - "D:/205_HW/HW_4/POZ_COMPARE.vhd" Line 44. b0: Undefined symbol (last report in this block)
+ERROR:HDLParsers:3312 - "D:/205_HW/HW_4/POZ_COMPARE.vhd" Line 44. Undefined symbol 'X'.
+ERROR:HDLParsers:1209 - "D:/205_HW/HW_4/POZ_COMPARE.vhd" Line 44. X: Undefined symbol (last report in this block)
+ERROR:HDLParsers:3312 - "D:/205_HW/HW_4/POZ_COMPARE.vhd" Line 44. Undefined symbol 'Y'.
+ERROR:HDLParsers:1209 - "D:/205_HW/HW_4/POZ_COMPARE.vhd" Line 44. Y: Undefined symbol (last report in this block)
+ERROR:HDLParsers:3312 - "D:/205_HW/HW_4/POZ_COMPARE.vhd" Line 44. Undefined symbol 'Z'.
+ERROR:HDLParsers:1209 - "D:/205_HW/HW_4/POZ_COMPARE.vhd" Line 44. Z: Undefined symbol (last report in this block)
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.19 secs
+ 
+--> 
+
+Total memory usage is 4468228 kilobytes
+
+Number of errors   :   50 (   0 filtered)
+Number of warnings :    1 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

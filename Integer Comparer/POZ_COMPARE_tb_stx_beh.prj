@@ -1,0 +1,5 @@
+vhdl isim_temp "CONNECT.vhd"
+vhdl isim_temp "COMP_1_bit.vhd"
+vhdl isim_temp "Structural_Modelling.vhd"
+vhdl isim_temp "POZ_COMPARE.vhd"
+vhdl isim_temp "POZ_COMPARE_tb.vhd"
